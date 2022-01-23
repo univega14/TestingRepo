@@ -1,0 +1,6 @@
+C:\Users\Radu\Desktop\DaDatRu\DaDatRu\bin\Debug\DaDatRu.dll
+C:\Users\Radu\Desktop\DaDatRu\DaDatRu\bin\Debug\DaDatRu.pdb
+C:\Users\Radu\Desktop\DaDatRu\DaDatRu\obj\Debug\DaDataRu.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\DaDatRu\DaDatRu\obj\Debug\DaDataRu.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\DaDatRu\DaDatRu\obj\Debug\DaDatRu.dll
+C:\Users\Radu\Desktop\DaDatRu\DaDatRu\obj\Debug\DaDatRu.pdb
